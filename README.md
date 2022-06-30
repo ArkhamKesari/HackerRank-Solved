@@ -1,2 +1,3 @@
-# HackerRank-Solved
-Problems I Solved 
+# HackerRank-Solutions
+Problems I Solved On Hacker 
+
